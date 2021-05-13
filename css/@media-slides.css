@@ -1,6 +1,7 @@
     @media(max-width:1077px) {
         .slides_container {
             width: 100%;
+            overflow-x: hidden;
         }
         .slides img {
             max-width: 740px;
